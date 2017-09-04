@@ -3,6 +3,7 @@ package yh.entity;
 public class Dept {
 	private int deptNo;
 	private String deptName;
+	private String location;
 
 	public Dept() {
 		super();
